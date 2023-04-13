@@ -143,7 +143,7 @@ return [
 	'404' => 'Kenia',
 	'417' => 'Kirguistán',
 	'296' => 'Kiribati',
-	'XKX?' => 'Kosovo',
+		'XKX?' => 'Kosovo',
 	'414' => 'Kuwait',
 
 	'418' => 'Laos',
